@@ -1128,5 +1128,18 @@
     "telegram": "bigdsc",                                            
     "operatorName": "Big",                                
     "github": "BigG-DSC"                                               
+  },
+  {
+   "ticker": "WISE",                                                       
+   "poolId": "0d549d59c5fd90ea2e7ef58041e14a10e15e0145386ba3a3b8709da4",  
+   "social": {                                                            
+     "twitter": "wise_pool",
+     "facebook": "",  
+     "instagram": " ",
+     "youtube": " "
+   },
+   "telegram": "WISEpoolada",                                            
+   "operatorName": "Arthur",                                   		
+   "github": "aleincsharp"                                                 
   }
 ]
